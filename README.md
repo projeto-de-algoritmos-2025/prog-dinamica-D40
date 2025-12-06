@@ -1,67 +1,32 @@
+# Programação Dinâmica D40
 
-# Exercícios sobre Grafos 1
-
-**Conteúdo da Disciplina**: Grafos 1<br>
+**Número da Lista**: 5
+**Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01
 
 ## Alunos
 
-|Matrícula | Aluno |
-| -- | -- |
-| 20/2023663 | Gabriel Basto Bertolazi |
-| 20/2017503 | Wildemberg Sales da Silva Junior |
+<div align = "center">
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/joaombc"><img style="border-radius: 50%;" src="https://github.com/joaombc.png" width="190;" alt=""/><br /><sub><b>João Paulo</b></sub></a><br /><a href="Link git" title="Rocketseat"></a></td>
+    <td align="center"><a href="https://github.com/yanzin00"><img style="border-radius: 50%;" src="https://github.com/yanzin00.png" width="190px;" alt=""/><br /><sub><b>Yan Guimarães </b></sub></a><br />
+  </tr>
+</table>
 
-## Sobre
+| Matrícula  | Aluno                                        |
+| ---------- | -------------------------------------------- |
+| 20/2045141 | João Paulo Monteiro de Barros Ceva Rodrigues |
+| 22/2006220 | Yan Guimarães                                |
 
-Esse exercício visa buscar a resolução dos exercícios escolhidos pela plataforma do LeetCode, com o objetivo de mostrar nossos conhecimentos aprendidos no conteúdo de grafos 1. Neles vamos aplicar conceitos e conhecimentos de lógica aprendidos na matéria de Projeto de Algoritmos com o professor Maurício Serrano.
-
-Principais funcionalidades:
-- Descobrir o maior caminho dentro de uma árvore.
-- Identificar a existências de ciclos e pais duplicados para um mesmo nó em um grafo direcionado.
-- Identificação de ciclos dentro de uma implementação de uma matriz de adjacência.
-
-
-## Screenshots
-
-### Visualização de Grafo → Execução de Algoritmo →  Resultado de Caminho Mínimo
-
-#### Questão 1   
-
-![Programação do curso](./imgs/questao_1.png)
-
-#### Questão 1 no LeetCode  
-
-![Programação do curso](./imgs/questao_1_resp.png)
-
----
-
-#### Questão 2   
-
-![Execução de Algoritmo](./imgs/questao_2.png)
-
-**Explicação da Resolução:** Foi utilizado dois vetores auxiliares para marcação de quem são filhos e quem são pais dentro das arestas passadas, com isso seria possível verificar se algum filho estava apontando para algum pai (Ciclo) ou se algum filho estava recebendo um segundo pai (Quebra da árvore).
-
----
-
-#### Questão 3   
-
-![Resultado de Caminho Mínimo](./imgs/questao_3.png)
-
-**Explicação da Resolução:** Para esta questão foi utilizado uma lógica de matriz de adjacencia que guardava todas as dependências fornecidas. Com isso foi desenvolvido um modelo de DFS para percorrer a matriz com ajuda de um vetor de visitados, para analisar se em algum momento as dependências de cursos criavam um ciclo.
-
----
-
-## Instalação
-
-sudo apt update && sudo apt install -y build-essential
-
-## Uso
-
-gcc questao_x.c -o questao_x && ./questao_x
+</div>
 
 ## Apresentação
 
-Vídeo disponível em: [youtube](https://youtu.be/K3ExD20ChGY)
+Link do Drive: [Link do Drive](https://drive.google.com/drive/folders/1ggXQK5whis0tB-36IstT5Wv4Yfr16YZW?usp=sharing)
 
-## Outros
+<div align="center">
+<a href="https://youtu.be/erKjbuT6MSo"><img src="https://img.youtube.com/vi/erKjbuT6MSo/maxresdefault.jpg" width="50%"></a>
+</div>
 
-Para dúvidas, sugestões ou melhorias, entre em contato com os autores.
+
+<font size="3"><p style="text-align: center">Autor: [João Paulo](https://github.com/joaombc) e [yan Guimarães](https://github.com/yanzin00).</p></font>
