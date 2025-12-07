@@ -22,10 +22,8 @@
 
 ## Apresentação
 
-Link do Drive: [Link do Drive](https://drive.google.com/drive/folders/1ggXQK5whis0tB-36IstT5Wv4Yfr16YZW?usp=sharing)
-
 <div align="center">
-<a href="https://youtu.be/erKjbuT6MSo"><img src="https://img.youtube.com/vi/erKjbuT6MSo/maxresdefault.jpg" width="50%"></a>
+<a href="https://www.youtube.com/watch?v=Kzde1blmz-M"><img src="https://img.youtube.com/vi/Kzde1blmz-M/maxresdefault.jpg" width="50%"></a>
 </div>
 
 
